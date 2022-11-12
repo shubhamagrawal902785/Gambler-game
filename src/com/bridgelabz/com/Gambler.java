@@ -1,7 +1,7 @@
 package com.bridgelabz.com;
 
 public class Gambler {
-public static void main(String args)
+public static void main(String[] args)
 		{
 	
 		int Stake = 100;
